@@ -22,6 +22,8 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210312202141.1"><vh>slide2-1</vh></v>
 <v t="leo.20210312203210.1"><vh>slide2-2</vh></v>
+<v t="leo.20210313010308.1"><vh>slide2-3</vh></v>
+<v t="leo.20210313015302.1"><vh>slide2-4</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -661,10 +663,22 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210312203210.1">
 &lt;section&gt;
-&lt;h3&gt;主題討論&lt;/h3&gt;
-&lt;p&gt;與組員討論完，決定製作 &lt;strong&gt;達文西 槳葉船 (Da Vinci PaddleBoat)&lt;/strong&gt;
+&lt;h2&gt;主題討論&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;與組員討論完，決定製作 達文西:槳葉船 (Da Vinci PaddleBoat)&lt;/small&gt;
 &lt;/p&gt;
-&lt;p&gt;由於船本身是由齒輪所帶動，因此需設計齒輪大小與齒數，使船體作動&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;由於船本身是由齒輪所帶動，因此需設計齒輪大小與齒數，使船槳能正常作動&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/example.jpg?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210313010308.1">&lt;section&gt;
+&lt;h2&gt;傳動方式&lt;/h2&gt;
+&lt;p&gt;由輸出軸提供動能，再由齒輪輸出至船槳，但輸出後的左右齒輪方向不同所以增加惰輪改變方向。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/spindle.jpg?raw=true" alt="" width="400" height="300"&gt;       &lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/transmission.jpg?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210313015302.1">&lt;section&gt;
+&lt;h2&gt;初步成品&lt;/h2&gt;
+&lt;p&gt;將初步繪出的立體圖放入Coppeliasim進行模擬，來找出還有哪些地方需要改善，使物體傳動更加穩定。
+&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/Preliminary%20product.jpg?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
