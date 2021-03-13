@@ -29,6 +29,7 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210313205139.1"><vh>slide 3-4</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818195800.1"><vh>slide 31</vh></v>
@@ -209,20 +210,23 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;W3進度&lt;/h2&gt;
+     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
     &lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h3&gt;模擬問題解決&lt;/h3&gt;
-    &lt;p&gt;&lt;small&gt;模擬後發現惰輪大小不同會導致轉速不同，所以利用不同齒輪傳遞方式改善&lt;/small&gt;&lt;/p&gt;
+    &lt;h3&gt;齒輪大小與樣式變更&lt;/h3&gt;
+    &lt;p&gt;&lt;small&gt;模擬後發現惰輪大小不同會導致左右大齒輪轉速不同，所以利用不同齒輪樣式改善傳遞方式。&lt;/small&gt;&lt;/p&gt;
     &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E8%A8%8E%E8%AB%96%E6%89%8B%E7%A8%BF.jpg?raw=true" alt="" width="250" height="400"&gt;      &lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20problem.jpg?raw=true" alt="" width="600" height="400"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;改良齒輪&lt;/h2&gt;
-    &lt;p&gt;模擬後發現輸出輪與左右齒輪傳動不穩，速度會產生簡諧運動，因此增加齒數與更改齒型使其能更加的穩定。&lt;/p&gt;
+    &lt;h3&gt;改良齒輪&lt;/h3&gt;
+ &lt;p&gt;&lt;small&gt;模擬後發現輸出輪與左右齒輪傳動不穩，速度會產生簡諧運動，因此增加齒數與更改齒型使其能更加的穩定運作。&lt;/small&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;small&gt;更改前&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20before.gif?raw=true" alt="" width="380" height="250"&gt;&amp;nbsp;&amp;nbsp;更改後&amp;nbsp;&amp;nbsp;&lt;iframe width="380" height="272" src="https://www.youtube.com/embed/JddkguAVczg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/small&gt;&lt;/p&gt;
+    
     
 &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
@@ -238,7 +242,6 @@ vertical: body pane on the botton</t>
     &lt;a href="#" class="navigate-down"&gt;
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
     &lt;/a&gt;
-    @others
 &lt;/section&gt;
 
 
@@ -253,14 +256,18 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210313010308.1">&lt;section&gt;
 &lt;h2&gt;傳動方式&lt;/h2&gt;
-&lt;p&gt;由輸出軸提供動能，再由齒輪輸出至船槳，但輸出後的左右齒輪方向不同所以增加惰輪改變方向。&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;由輸出軸提供動能，再由齒輪輸出至船槳，但輸出後的左右齒輪方向不同所以增加惰輪改變方向。&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/spindle.jpg?raw=true" alt="" width="400" height="300"&gt;       &lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/transmission.jpg?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210313015302.1">&lt;section&gt;
 &lt;h2&gt;初步成品&lt;/h2&gt;
-&lt;p&gt;將初步繪出的立體圖放入Coppeliasim進行模擬，來找出還有哪些地方需要改善，使物體傳動更加穩定。
+&lt;p&gt;&lt;small&gt;將初步繪出的立體圖放入Coppeliasim進行模擬，來找出還有哪些地方需要改善，使物體傳動更加穩定。&lt;/small&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/Preliminary%20product.jpg?raw=true" alt="" width="400" height="300"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210313205139.1">&lt;section&gt;
+&lt;h3&gt;零件簡化&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;為了追求最佳化設定，而將沒必要的物件進行簡化。&lt;/small&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
