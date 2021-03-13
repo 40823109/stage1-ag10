@@ -215,17 +215,15 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h3&gt;模擬問題解決&lt;/h3&gt;
+    &lt;p&gt;&lt;small&gt;模擬後發現惰輪大小不同會導致轉速不同，所以利用不同齒輪傳遞方式改善&lt;/small&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E8%A8%8E%E8%AB%96%E6%89%8B%E7%A8%BF.jpg?raw=true" alt="" width="250" height="400"&gt;      &lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20problem.jpg?raw=true" alt="" width="600" height="400"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;改良齒輪&lt;/h2&gt;
+    &lt;p&gt;模擬後發現齒輪的傳動不穩，會發生跳齒問題，因此增加齒數與更改齒型使其能更加的穩定。&lt;/p&gt;
+    
 &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
