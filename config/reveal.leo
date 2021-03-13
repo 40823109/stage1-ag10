@@ -222,7 +222,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;改良齒輪&lt;/h2&gt;
-    &lt;p&gt;模擬後發現齒輪的傳動不穩，會發生跳齒問題，因此增加齒數與更改齒型使其能更加的穩定。&lt;/p&gt;
+    &lt;p&gt;模擬後發現輸出輪與左右齒輪傳動不穩，速度會產生簡諧運動，因此增加齒數與更改齒型使其能更加的穩定。&lt;/p&gt;
     
 &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
