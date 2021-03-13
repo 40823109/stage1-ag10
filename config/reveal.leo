@@ -33,7 +33,7 @@
 <v t="leo.20210313213737.1"><vh>slide 3-5</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818195800.1"><vh>slide 31</vh></v>
+<v t="leo.20200818195800.1"><vh>slide 5</vh></v>
 </v>
 </v>
 </v>
@@ -235,8 +235,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;p&gt;
-        - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-        - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
+        - &lt;a href="https://a40823112.github.io/stage1-ag10/content/index.html"&gt;Back to the stage1-ag10
+site&lt;/a&gt; &lt;br&gt;
+        - &lt;a href="https://a40823112.github.io/cd2021/content/index.html"&gt;40823112 site&lt;/a&gt;&lt;br&gt;
+        - &lt;a href="https://40823109.github.io/cd2021/content/index.html"&gt;4823109 site&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210312202141.1">&lt;section&gt;
