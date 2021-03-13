@@ -223,9 +223,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h3&gt;改良齒輪&lt;/h3&gt;
+    &lt;h3&gt;傳動改良&lt;/h3&gt;
  &lt;p&gt;&lt;small&gt;模擬後發現輸出輪與左右齒輪傳動不穩，速度會產生簡諧運動，因此增加齒數與更改齒型使其能更加的穩定運作。&lt;/small&gt;&lt;/p&gt;
- &lt;p&gt;&lt;small&gt;更改前&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20before.gif?raw=true" alt="" width="380" height="250"&gt;&amp;nbsp;&amp;nbsp;更改後&amp;nbsp;&amp;nbsp;&lt;iframe width="380" height="272" src="https://www.youtube.com/embed/JddkguAVczg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/small&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;small&gt;更改前&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20before.gif?raw=true" alt="" width="350" height="150"&gt;&amp;nbsp;&amp;nbsp;更改後&amp;nbsp;&amp;nbsp;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20before.gif?raw=true" alt="" width="350" height="150"&gt;&lt;/small&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;small&gt;為了使大齒輪能穩定的帶動葉槳，所以更改葉槳傳動軸的位置。&lt;/small&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E8%91%89%E6%A7%B3%E9%AB%98%E5%BA%A6.jpg?raw=true" alt="" width="350" height="200"&gt;&lt;/p&gt;
     
     
 &lt;/section&gt;</t>
@@ -268,6 +270,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210313205139.1">&lt;section&gt;
 &lt;h3&gt;零件簡化&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;為了追求最佳化設定，而將沒必要的物件進行簡化。&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E7%B0%A1%E5%8C%96%E9%9B%B6%E4%BB%B6.jpg?raw=true" alt="" width="430" height="350"&gt;&amp;nbsp;&amp;nbsp;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E8%91%89%E6%A7%B3%E9%AB%98%E5%BA%A6.jpg?raw=true" alt="" width="430" height="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
