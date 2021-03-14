@@ -32,7 +32,14 @@
 <v t="leo.20210313205139.1"><vh>slide 3-4</vh></v>
 <v t="leo.20210313213737.1"><vh>slide 3-5</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210314222659.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210314222801.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210314223507.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210314223541.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210314224222.1"><vh>slide 4-5</vh></v>
+<v t="leo.20210314224827.1"><vh>slide 4-6</vh></v>
+</v>
 <v t="leo.20200818195800.1"><vh>slide 5</vh></v>
 </v>
 </v>
@@ -202,12 +209,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;W3進度&lt;/h2&gt;
@@ -279,6 +282,38 @@ site&lt;/a&gt; &lt;br&gt;
 &lt;h3&gt;修改後完成品&lt;/h3&gt;
 &lt;p&gt;&lt;iframe width="560" height="280" src="https://www.youtube.com/embed/JddkguAVczg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/final.jpg?raw=true" alt="" width="560" height="250"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314222659.1">&lt;section&gt;
+    &lt;h2&gt;W4進度&lt;/h2&gt;
+     &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210314222801.1">&lt;section&gt;
+&lt;h3&gt;2D工程圖&lt;/h3&gt;
+&lt;p&gt;船身&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E5%B7%A5%E4%BD%9C%E5%9C%96%203_pages-to-jpg-0001.jpg?raw=true" alt="" width="900" height="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314223507.1">&lt;section&gt;
+&lt;h3&gt;2D工程圖&lt;/h3&gt;
+&lt;p&gt;船槳&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/0002.jpg?raw=true" alt="" width="900" height="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314223541.1">&lt;section&gt;
+&lt;h3&gt;2D工程圖&lt;/h3&gt;
+&lt;p&gt;齒輪&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/0001.jpg?raw=true" alt="" width="900" height="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314224222.1">&lt;section&gt;
+&lt;h3&gt;3D爆炸圖&lt;/h3&gt;
+&lt;p&gt;BOM&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/1615607118608.jpg?raw=true" alt="" width="900" height="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314224827.1">&lt;section&gt;
+&lt;h3&gt;產品設計報告&lt;/h3&gt;
+&lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1F2QnKiK1PEwBbCzvEWrdgl_EwHinTfI3/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
