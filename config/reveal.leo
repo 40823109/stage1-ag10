@@ -230,7 +230,7 @@ vertical: body pane on the botton</t>
     &lt;h3&gt;傳動改良&lt;/h3&gt;
  &lt;p&gt;&lt;small&gt;模擬後發現輸出輪與左右齒輪傳動不穩，速度會產生簡諧運動，因此增加齒數與更改齒型使其能更加的穩定運作。&lt;/small&gt;&lt;/p&gt;
  &lt;p&gt;&lt;small&gt;更改前&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20before.gif?raw=true" alt="" width="350" height="170"&gt;&amp;nbsp;&amp;nbsp;更改後&amp;nbsp;&amp;nbsp;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/gear%20after.jpg?raw=true" alt="" width="350" height="170"&gt;&lt;/small&gt;&lt;/p&gt;
- &lt;p&gt;&lt;small&gt;為了使大齒輪能穩定的帶動葉槳，所以更改葉槳傳動軸的位置。&lt;/small&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;small&gt;為了使大齒輪能穩定的帶動船槳，所以更改船槳傳動軸的位置。&lt;/small&gt;&lt;/p&gt;
  &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/%E8%91%89%E6%A7%B3%E9%AB%98%E5%BA%A6.jpg?raw=true" alt="" width="350" height="200"&gt;&lt;/p&gt;
     
     
