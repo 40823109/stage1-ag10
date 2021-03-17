@@ -19,6 +19,11 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20210317142856.1"><vh>slide 1.5</vh>
+<v t="leo.20210317142924.1"><vh>slide 1.5-1</vh></v>
+<v t="leo.20210317143043.1"><vh>slide 1.5-2</vh></v>
+<v t="leo.20210317143756.1"><vh>slide 1.5-3</vh></v>
+</v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210312202141.1"><vh>slide2-1</vh></v>
 <v t="leo.20210312203210.1"><vh>slide2-2</vh></v>
@@ -191,9 +196,6 @@ vertical: body pane on the botton</t>
     &lt;a href="https://a40823112.github.io/stage1-ag10/content/index.html"&gt;CD2021AG10
     &lt;/a&gt;
     &lt;/font&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823109.github.io/cd2021/content/index.html"&gt;40823109&lt;/a&gt; and &lt;a href="https://a40823112.github.io/cd2021/content/index.html"&gt;40823112&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -256,10 +258,10 @@ site&lt;/a&gt; &lt;br&gt;
 </t>
 <t tx="leo.20210312203210.1">
 &lt;section&gt;
-&lt;h2&gt;主題討論&lt;/h2&gt;
-&lt;p&gt;&lt;small&gt;與組員討論完，決定製作 達文西:槳葉船 (Da Vinci PaddleBoat)&lt;/small&gt;
+&lt;h2&gt;產品討論&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;主題:達文西 槳葉船 (Da Vinci PaddleBoat)&lt;/small&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;small&gt;由於船本身是由齒輪所帶動，因此需設計齒輪大小與齒數，使船槳能正常作動&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;由於船本身是由齒輪所帶動，需考慮齒輪相互配合，設計其齒數與大小，使船槳能正常作動&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://github.com/a40823112/stage1-ag10/blob/main/images/example.jpg?raw=true" alt="" width="600" height="390"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210313010308.1">&lt;section&gt;
@@ -315,5 +317,30 @@ site&lt;/a&gt; &lt;br&gt;
 &lt;h3&gt;產品設計報告&lt;/h3&gt;
 &lt;p&gt;&lt;iframe height="550" src="https://drive.google.com/file/d/1F2QnKiK1PEwBbCzvEWrdgl_EwHinTfI3/preview" width="1000"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210317142856.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210317142924.1">&lt;section&gt;
+    &lt;h2&gt;W1進度&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210317143043.1">&lt;section&gt;
+    &lt;h3&gt;分組協同:進度規劃&lt;/h3&gt;
+   &lt;p&gt;&lt;small&gt;第二周:討論與繪製零件圖&lt;/small&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;small&gt;第三周:coppeliasim模擬、修改零件、網頁與報告製作&lt;/small&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;small&gt;第四周:報告&lt;/small&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317143756.1">&lt;section&gt;
+    &lt;h3&gt;分組協同:小組分工&lt;/h3&gt;
+   40823109: 零件設計與繪圖
+   40823112: coppeliasim模擬、reveal.js與PDF簡報製作、小組倉儲編輯
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
