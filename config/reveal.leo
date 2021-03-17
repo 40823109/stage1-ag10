@@ -332,14 +332,14 @@ site&lt;/a&gt; &lt;br&gt;
 </t>
 <t tx="leo.20210317143043.1">&lt;section&gt;
     &lt;h3&gt;分組協同:進度規劃&lt;/h3&gt;
-   &lt;p&gt;&lt;small&gt;第二周:討論與繪製零件圖&lt;/small&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;small&gt;第二周:討論題目與繪製零件圖&lt;/small&gt;&lt;/p&gt;
    &lt;p&gt;&lt;small&gt;第三周:coppeliasim模擬、修改零件、網頁與報告製作&lt;/small&gt;&lt;/p&gt;
    &lt;p&gt;&lt;small&gt;第四周:報告&lt;/small&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317143756.1">&lt;section&gt;
     &lt;h3&gt;分組協同:小組分工&lt;/h3&gt;
-   40823109: 零件設計與繪圖
-   40823112: coppeliasim模擬、reveal.js與PDF簡報製作、小組倉儲編輯
+   &lt;p&gt;40823109: 零件設計與繪圖&lt;/p&gt;
+   &lt;p&gt;40823112: coppeliasim模擬、reveal.js與PDF簡報製作、小組倉儲編輯&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
