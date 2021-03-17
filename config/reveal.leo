@@ -27,6 +27,7 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210312202141.1"><vh>slide2-1</vh></v>
 <v t="leo.20210312203210.1"><vh>slide2-2</vh></v>
+<v t="leo.20210317170145.1"><vh>slide2-2.5</vh></v>
 <v t="leo.20210313010308.1"><vh>slide2-3</vh></v>
 <v t="leo.20210313015302.1"><vh>slide2-4</vh></v>
 </v>
@@ -332,9 +333,9 @@ site&lt;/a&gt; &lt;br&gt;
 </t>
 <t tx="leo.20210317143043.1">&lt;section&gt;
     &lt;h3&gt;分組協同:進度規劃&lt;/h3&gt;
-   &lt;p&gt;&lt;small&gt;第二周:討論題目與繪製零件圖&lt;/small&gt;&lt;/p&gt;
-   &lt;p&gt;&lt;small&gt;第三周:coppeliasim模擬、修改零件、網頁與報告製作&lt;/small&gt;&lt;/p&gt;
-   &lt;p&gt;&lt;small&gt;第四周:報告&lt;/small&gt;&lt;/p&gt;
+   &lt;p&gt;第二周:討論題目與繪製零件圖&lt;/p&gt;
+   &lt;p&gt;第三周:coppeliasim模擬、修改零件、網頁與報告製作&lt;/p&gt;
+   &lt;p&gt;第四周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317143756.1">&lt;section&gt;
     &lt;h3&gt;分組協同:小組分工&lt;/h3&gt;
@@ -342,5 +343,9 @@ site&lt;/a&gt; &lt;br&gt;
    &lt;p&gt;40823112: coppeliasim模擬、reveal.js與PDF簡報製作、小組倉儲編輯&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210317170145.1">&lt;section&gt;
+&lt;h2&gt;產品討論:草稿&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://a40823112.github.io/cd2021/images/%E6%89%8B%E7%A8%BF1.jpg"" width="450" height="550"&gt;      &lt;img src="https://a40823112.github.io/cd2021/images/%E6%89%8B%E7%A8%BF2.jpg"" width="300" height="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
