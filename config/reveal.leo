@@ -334,7 +334,7 @@ site&lt;/a&gt; &lt;br&gt;
 <t tx="leo.20210317143043.1">&lt;section&gt;
     &lt;h3&gt;分組協同:進度規劃&lt;/h3&gt;
    &lt;p&gt;第二周:討論題目與繪製零件圖&lt;/p&gt;
-   &lt;p&gt;第三周:coppeliasim模擬、修改零件、網頁與報告製作&lt;/p&gt;
+   &lt;p&gt;第三周:coppeliasim模擬、問題排解、網頁與報告製作&lt;/p&gt;
    &lt;p&gt;第四周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317143756.1">&lt;section&gt;
