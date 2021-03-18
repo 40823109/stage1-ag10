@@ -194,10 +194,10 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;font size="60"&gt;
-    &lt;a href="https://a40823112.github.io/stage1-ag10/content/index.html"&gt;CD2021AG10
+    &lt;a href="https://a40823112.github.io/stage1-ag10/content/index.html"&gt;Stage1-ag10
     &lt;/a&gt;
     &lt;/font&gt;
-    &lt;p&gt;&lt;small&gt;member &lt;a href="https://40823109.github.io/cd2021/content/index.html"&gt;40823109&lt;/a&gt; and &lt;a href="https://40823112.github.io/cd2021/content/index.html"&gt;40823112&lt;/a&gt;&lt;/small&gt;
+    &lt;p&gt;&lt;small&gt;member &lt;a href="https://40823109.github.io/cd2021/content/index.html"&gt;40823109&lt;/a&gt; and &lt;a href="https://a40823112.github.io/cd2021/content/index.html"&gt;40823112&lt;/a&gt;&lt;/small&gt;
             &lt;/p&gt;
 &lt;/section&gt;
 
